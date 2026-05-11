@@ -1,4 +1,4 @@
-# LSC Platform 🤝
+# LSC Platform 
 
 Plataforma de cualificación docente en inclusión auditiva para instituciones educativas, apoyada en cocreación de contenidos interactivos en Lengua de Señas Colombiana (LSC).
 
@@ -13,7 +13,7 @@ Plataforma de cualificación docente en inclusión auditiva para instituciones e
 ## Equipo
 
 Grupo 1 — Universidad Tecnológica de Bolívar  
-Juan Salas · Natalia Pérez · Paula Márquez · Alain Medina
+Paula Márquez · Natalia Pérez · Juan Salas · Alain Medina
 
 ## Levantar el proyecto
 
